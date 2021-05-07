@@ -219,7 +219,7 @@ http://www.github.com
 
    5.2 关系图
 
-   ![001](F:\code\001.png)
+   ![001](001.png)
 
 6. 分支
 
@@ -333,15 +333,15 @@ http://www.github.com
 
    > 1. IP查询网站：https://www.ipaddress.com/
    >
-   >    ![003](F:\code\003.png)
+   >    ![003](003.png)
    >
    > 2. 依次点击github.com  https://github.com.ipaddress.com/  获取ip1
    >
-   >    ![004](F:\code\004.png)
+   >    ![004](004.png)
    >
    > 3. 再次点击github.com  https://fastly.net.ipaddress.com/github.global.ssl.fastly.net  获取iP2
    >
-   >    ![005](F:\code\005.png)
+   >    ![005](005.png)
    >
    > 4. 写入hosts文件
    >
@@ -362,7 +362,7 @@ http://www.github.com
    >
    > 6. 重启浏览器即可访问
 
-   ![006](F:\code\006.png)
+   ![006](006.png)
 
    
 
@@ -386,7 +386,7 @@ http://www.github.com
 
    8.2.3 创建github的项目库
 
-   ![007](F:\code\007.png)
+   ![007](007.png)
 
    8.2.4 推送代码到github
 
